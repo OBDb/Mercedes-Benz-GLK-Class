@@ -1,0 +1,8 @@
+references:
+  - "https://en.wikipedia.org/wiki/Mercedes-Benz_GLK-Class"
+
+generations:
+  - name: "X204"
+    start_year: 2008
+    end_year: 2015
+    description: "A compact SUV on the W204 C-Class platform; succeeded by the GLC."
