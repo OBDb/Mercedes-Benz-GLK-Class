@@ -1,0 +1,32 @@
+command_id: 7E1.7E9.2134
+test_cases:
+- expected_values:
+    GLK_ATF_T_VAR_3: 85.2
+  response: |-
+    7E9100D61342EDD1394
+    7E921FFFF076D090354
+- expected_values:
+    GLK_ATF_T_VAR_3: 85.7
+  response: |-
+    7E9100D61342EE3138F
+    7E921FFFF0CCA070359
+- expected_values:
+    GLK_ATF_T_VAR_3: 87.7
+  response: |-
+    7E9100D613431CA1381
+    7E921FFFF0CC407036D
+- expected_values:
+    GLK_ATF_T_VAR_3: 88.2
+  response: |-
+    7E9100D613432791397
+    7E921FFFF0CC3070372
+- expected_values:
+    GLK_ATF_T_VAR_3: 87.4
+  response: |-
+    7E9100D6134332E138E
+    7E921FFFF0CCA07036A
+- expected_values:
+    GLK_ATF_T_VAR_3: 86.4
+  response: |-
+    7E9100D613433EA138E
+    7E921FFFF0CCA070360
