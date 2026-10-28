@@ -1,4 +1,7 @@
-{ "commands": [
+{ "ecu": [
+    { "hdr": "7E0", "type": "engine" }
+  ],
+  "commands": [
 { "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "0163"}, "freq": 5,
   "signals": [
     {"id": "GLK_BOOST_AIR_T", "path": "Engine", "fmt": {"bix": 48,  "len": 16, "max": 6280,  "min": -273,   "div": 10, "add": -273.1,               "unit": "celsius" }, "name": "Boost air temperature"},
